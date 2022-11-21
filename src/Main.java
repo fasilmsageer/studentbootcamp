@@ -93,6 +93,9 @@ public class Main {
                 case 2:
                     viewStudent();
                     break;
+                case 3:
+                    searchStudent();
+                    break;
             }
         }
     }
